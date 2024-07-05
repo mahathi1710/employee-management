@@ -1,0 +1,21 @@
+Employee Management System
+
+Developed an Employee Management System in Java to streamline employee information handling and payroll processing.
+
+Implemented Classes:
+
+Employee Class: Base class with attributes and methods for employee ID, name, and salary.
+ContractEmployee Class: Calculated salary based on hourly wage and hours worked.
+PermanentEmployee Class: Computed salary with base pay, HRA, and experience-based bonuses.
+
+Key Features:
+
+OOP Principles: Used inheritance and polymorphism for scalable and maintainable code.
+Salary Calculation: Accurate and rounded salary computations for different employee types.
+Encapsulation: Ensured controlled access to employee data through getters and setters.
+
+Technical Skills: Java, OOP, encapsulation, and mathematical computation for payroll processing
+
+Project Outcome:
+Successfully created a flexible and extendable system for managing various types of employees.
+Streamlined payroll processes, reducing manual calculation errors and improving efficiency.
